@@ -63,10 +63,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="form-group">
                             <label for="inputPassword" class="col-lg-2 control-label">Password</label>
                             <div class="col-lg-10">
-                                <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+                                <input type="password" class="form-control" id="inputPassword" placeholder="Password" name="password">
                                 <div class="checkbox">
                                     <label>
-                                        <a href="user/create" class="btn btn-primary btn-raised">Add user</a>
+                                        <a href="<?php echo site_url('user/create') ?>" class="btn btn-primary btn-raised">Add user</a>
                                     </label>
                                 </div>
                                 
