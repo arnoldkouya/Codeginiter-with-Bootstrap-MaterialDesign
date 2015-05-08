@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+RewriteCond $1 !^(assets|media|favicon\.ico|robots\.txt|info\.php|index\.php|uploads|css|application|images|includes|js|system)
+RewriteRule ^(.*)$ /index.php/$1 [QSA,L]
+
