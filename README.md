@@ -11,3 +11,5 @@ Codeginiter with Bootstrap MaterialDesign is an example of using Bootrap Matriel
 Some Controllers and Models have been added
 * Create
 * Read
+* Update (in coding)
+* Delete
