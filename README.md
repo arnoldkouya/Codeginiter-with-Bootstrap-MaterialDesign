@@ -6,3 +6,8 @@ Codeginiter with Bootstrap MaterialDesign is an example of using Bootrap Matriel
   <img src="http://s21.postimg.org/vlvgsix07/screenshot_bootstrap_material_design.jpg"/>
 </p>
 
+# CRUD
+
+Some Controllers and Models have been added
+* Create
+* Read
